@@ -1,4 +1,4 @@
-# Simple random quote machine
+# Simple random quote machine [DEMO LINK](https://vasyl-pavlenko.github.io/quotes-generator/)
 
 ##  User Story 1: I can see a wrapper element with a corresponding id="quote-box".
 
